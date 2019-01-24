@@ -1,2 +1,4 @@
 # tensorflow_practice
 tensorflow实战笔记
+内含代码注释和一些函数的运用
+模型有：mnist的全连接神经网络识别、cnn（LetNet模型）识别MNIST、LSTM模型文本预测、TFrecord基本操作、时间序列预测的深度循环神经网络
